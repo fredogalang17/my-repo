@@ -1,7 +1,8 @@
 {
   "schema": "technocore-contribution-proof-v1",
-  "artifact_url": "https://github.com/fredogalang17/my-repo",
-  "commit": "10a1faa71686740e464fc98f75f186e70c793d37",
+  "artifact_url": "https://x.com/tiandevano/status/2093471031763800346",
+  "commit": "02bf400a20c2106a61dc5380024b8dca709199e084096023783b461760ba4cb1",
   "did": "did:key:z6MkgX1TpBarUDBeYv5Nzt6QVnZ13vWLA2HWt5GGZ5nd8U8J",
-  "signature": "fTELX3Qez6561hK9o0Uayi6EjSgX-1qjjZZyFv2oS1aGnTLdyIvYld2K0EOdADkU793ad90PVjYyd6pK01oOAQ"
+  "signature": "yRaX2Mb-U3poaqWcrliQRwA62CznxsteMywfQ5ydeNIhTJNijIeEd2zPl2V9e_5AjiCZKiyh0SKjj8VcqwDsAw",
+  "type": "twitter"
 }
