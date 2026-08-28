@@ -1,6 +1,7 @@
 {
+  "schema": "technocore-contribution-proof-v1",
+  "artifact_url": "https://github.com/fredogalang17/my-repo",
+  "commit": "10a1faa71686740e464fc98f75f186e70c793d37",
   "did": "did:key:z6MkgX1TpBarUDBeYv5Nzt6QVnZ13vWLA2HWt5GGZ5nd8U8J",
-  "url": "https://github.com/fredogalang17/my-repo",
-  "commit": "10d68bc2141de05a7e03a0a36e00e593a396afa4",
-  "sig": "Mjp79XzhEsPdegwkNTkbKXQvwZJvyW4L9POPkoYi47KEANA9JF85bk3bVaHjp3AODD_0k_U68TPcAy_bA3v-BQ"
+  "signature": "fTELX3Qez6561hK9o0Uayi6EjSgX-1qjjZZyFv2oS1aGnTLdyIvYld2K0EOdADkU793ad90PVjYyd6pK01oOAQ"
 }
